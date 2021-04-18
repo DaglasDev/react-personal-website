@@ -11,7 +11,7 @@ export const AboutMe = () => {
 				<p className="text-gray-400 mt-1">
 					Me gusta mucho la programación full-stack, pero
 					recientemente me ha llamado más la atención el front-end,
-					aunque me puedo desenvolverme de igual manera en ambos.
+					aunque me puedo desenvolver de igual manera en ambos.
 				</p>
 				<p className="text-gray-400 mt-1">
 					Mi ideal es ser lo mejor posible en todo lo que hago y mi

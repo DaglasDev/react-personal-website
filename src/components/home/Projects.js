@@ -16,19 +16,19 @@ export const Projects = () => {
 							img={journal}
 							alt="journal-app"
 							href="https://github.com/DaglasDev/react-journal-app"
-							description="Aplicación de notas para uso diario, similar a un diario de vida"
+							description="Aplicación de notas para uso diario, similar a un diario de vida. Stack: React, Redux, Firebase, Cloudinary y más."
 						/>
 						<Project
 							img={tickets}
 							alt="tickets-app"
 							href="https://github.com/DaglasDev/node-tickets"
-							description="Aplicación de notas para uso diario, similar a un diario de vida"
+							description="Aplicación de tickets para atención de público. Stack: Node, Express, Socket.io."
 						/>
 						<Project
 							img={heroApp}
-							alt="journal-app"
+							alt="hero-app"
 							href="https://github.com/DaglasDev/react-hero-app"
-							description="Aplicación de notas para uso diario, similar a un diario de vida"
+							description="Aplicación simple de filtro con imágenes. Stack: React, State, Context, Protección de rutas."
 						/>
 					</div>
 				</div>
