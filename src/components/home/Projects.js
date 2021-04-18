@@ -1,7 +1,7 @@
 import React from "react";
 import journal from "../../assets/journal.png";
 import tickets from "../../assets/tickets.png";
-import heroApp from "../../assets/heroApp.png";
+import heroApp from "../../assets/heroApp.jpg";
 import { Project } from "../ui/Project";
 
 export const Projects = () => {
