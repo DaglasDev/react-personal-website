@@ -21,7 +21,7 @@ export const Header = () => {
 						<Icon
 							icon="fab fa-linkedin-in fa-2x"
 							label="LinkedIn"
-							href="https://www.linkedin.com/in/daglas-r-1893951b2/"
+							href="https://www.linkedin.com/in/daglas-dev/"
 						/>
 						<Icon
 							icon="fab fa-github fa-2x"
